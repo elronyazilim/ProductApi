@@ -1,0 +1,17 @@
+C:\Users\YAZILIM1\source\repos\ProductApi\ProductApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\YAZILIM1\source\repos\ProductApi\ProductApi\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\YAZILIM1\source\repos\ProductApi\ProductApi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\YAZILIM1\source\repos\ProductApi\ProductApi\bin\Debug\netcoreapp3.1\ProductApi.exe
+C:\Users\YAZILIM1\source\repos\ProductApi\ProductApi\bin\Debug\netcoreapp3.1\ProductApi.deps.json
+C:\Users\YAZILIM1\source\repos\ProductApi\ProductApi\bin\Debug\netcoreapp3.1\ProductApi.runtimeconfig.json
+C:\Users\YAZILIM1\source\repos\ProductApi\ProductApi\bin\Debug\netcoreapp3.1\ProductApi.runtimeconfig.dev.json
+C:\Users\YAZILIM1\source\repos\ProductApi\ProductApi\bin\Debug\netcoreapp3.1\ProductApi.dll
+C:\Users\YAZILIM1\source\repos\ProductApi\ProductApi\bin\Debug\netcoreapp3.1\ProductApi.pdb
+C:\Users\YAZILIM1\source\repos\ProductApi\ProductApi\obj\Debug\netcoreapp3.1\staticwebassets\ProductApi.StaticWebAssets.Manifest.cache
+C:\Users\YAZILIM1\source\repos\ProductApi\ProductApi\obj\Debug\netcoreapp3.1\staticwebassets\ProductApi.StaticWebAssets.xml
+C:\Users\YAZILIM1\source\repos\ProductApi\ProductApi\obj\Debug\netcoreapp3.1\ProductApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\YAZILIM1\source\repos\ProductApi\ProductApi\obj\Debug\netcoreapp3.1\ProductApi.AssemblyInfoInputs.cache
+C:\Users\YAZILIM1\source\repos\ProductApi\ProductApi\obj\Debug\netcoreapp3.1\ProductApi.AssemblyInfo.cs
+C:\Users\YAZILIM1\source\repos\ProductApi\ProductApi\obj\Debug\netcoreapp3.1\ProductApi.RazorTargetAssemblyInfo.cache
+C:\Users\YAZILIM1\source\repos\ProductApi\ProductApi\obj\Debug\netcoreapp3.1\ProductApi.dll
+C:\Users\YAZILIM1\source\repos\ProductApi\ProductApi\obj\Debug\netcoreapp3.1\ProductApi.pdb
